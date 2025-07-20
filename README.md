@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Olá eu sou o Daniel , tenho 20 anos<br>🔭 Desenvolvedor web
+👨‍💻 Olá eu sou o Daniel , tenho 21 anos<br>🔭 Desenvolvedor web
 
 
 ## 🌐 Socials:
